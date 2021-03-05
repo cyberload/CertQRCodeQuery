@@ -1,0 +1,20 @@
+
+
+.hide { display:none }
+
+.listTableTitle .contralButton span.collapseButton em { display:inline-block; width:10px; height:10px; background:	url(../images/listTableIcon-05.jpg) 0 center no-repeat; position:absolute; top:3px; left:3px }
+.listTableTitle .contralButton span.collapseButton em.open { background:	url(../images/listTableIcon-03.jpg) 0 center no-repeat; }
+
+.openTableTree { background:	url(../images/listTableIcon-07.jpg) no-repeat; }
+.closeTableTree { background:	url(../images/listTableIcon-06.jpg) no-repeat; }
+/*----*/
+
+#scanUpLoadButton { background:url(../images/uploadButton.jpg) no-repeat; width:57px; height:22px; line-height:22px; color:#fff; text-align:center; display:block }
+#scanUpLoadButtonLine { background:url(../images/icon1.jpg) repeat-x; }
+
+.zhengzhaoBlock { margin:10px }
+.zhengzhaoNav { padding:4px 10px 0; border-bottom:1px solid #cab3a6 }
+.zhengzhaoNav li, .zhengzhaoNav li a { display:block; width:72px; height:22px; line-height:22px; color:#47280c }
+.zhengzhaoNav li a { text-align:center; background:url(../images/icon5.jpg) 0 0 no-repeat }
+.zhengzhaoNav li a.current, .zhengzhaoNav li a:hover { color:#fff; background:url(../images/icon5.jpg) -76px 0 no-repeat }
+.zhengzhaoNav li { float:left; margin-right:3px }
