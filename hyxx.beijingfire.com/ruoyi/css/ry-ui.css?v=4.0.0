@@ -1,9 +1,9 @@
 /**
- * 閫氱敤css鏍峰紡甯冨眬澶勭悊
+ * 通用css样式布局处理
  * Copyright (c) 2019 ruoyi
  */
 
-/** 鍩虹閫氱敤 **/
+/** 基础通用 **/
 .pt5 {
 	padding-top: 5px;
 }
@@ -125,7 +125,7 @@
     float: left;
 }
 
-/* 瀵艰埅椤电 */
+/* 导航页签 */
 .nav-tabs-custom {
 	margin-bottom: 20px;
 	background: #fff;
@@ -198,7 +198,7 @@
 	border-bottom-left-radius: 3px
 }
 
-/** 寮瑰眰缁勪欢 绂佺敤鏍峰紡 **/
+/** 弹层组件 禁用样式 **/
 .layer-disabled {
 	border: 1px #dedede solid !important;
 	background-color: #f1f1f1 !important;
@@ -206,7 +206,7 @@
 	pointer-events: none;
 }
 
-/** 鐢ㄦ埛绠＄悊 鏍峰紡甯冨眬 **/
+/** 用户管理 样式布局 **/
 .box {
 	position: relative;
 	border-radius: 3px;
@@ -300,7 +300,7 @@
 	}
 }
 
-/** select2 鏍峰紡淇敼 **/
+/** select2 样式修改 **/
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
 	background-color: #1AB394;
 	border-color: #1AB394;
@@ -321,7 +321,7 @@
 	padding-right: 10px
 }
 
-/** 琛ㄥ崟楠岃瘉 鏍峰紡甯冨眬 **/
+/** 表单验证 样式布局 **/
 label.error {
 	position: absolute;
 	right: 18px;
@@ -362,7 +362,7 @@ label.error {
 	max-width: none;
 }
 
-/** 澶嶉€夋&鍗曢€夋  **/
+/** 复选框&单选框  **/
 .check-box,.radio-box {
 	display: inline-block;
 	box-sizing: border-box;
@@ -433,7 +433,7 @@ label.error {
 	background-position: -180px 0
 }
 
-/* 鍒囨崲寮€鍏� */
+/* 切换开关 */
 .toggle-switch {
 	display: -webkit-inline-box;
 	display: -webkit-inline-flex;
@@ -506,7 +506,7 @@ label.error {
 	color: #33cabb
 }
 
-/** 閬僵灞� **/
+/** 遮罩层 **/
 .loaderbox {
 	display: inline-block;
 	min-width: 125px;
@@ -573,7 +573,7 @@ label.error {
 	}
 }
 
-/** 琛ㄥ崟鏌ヨ鏉′欢  **/
+/** 表单查询条件  **/
 .select-list ul, .layui-layer-content ul {
 	margin: 0;
 	padding: 0;
@@ -802,7 +802,7 @@ label {
 	font-weight: normal;
 }
 
-/** 琛ㄦ牸鏌ヨ鏁版嵁 **/
+/** 表格查询数据 **/
 .table-striped {
 	min-height: 75%;
 }
@@ -850,7 +850,7 @@ label {
 	height: 32px!important;
 }
 
-/** 琛ㄦ牸鍐荤粨鍒楁牱寮� **/
+/** 表格冻结列样式 **/
 .left-fixed-table-columns, .left-fixed-body-columns {
     position: absolute;
     background-color: #fff;
@@ -884,7 +884,7 @@ label {
     z-index:100;
 }
 
-/** 琛ㄦ牸鏍戞牱寮� **/
+/** 表格树样式 **/
 .bootstrap-tree-table .treetable-indent {width:16px; height: 16px; display: inline-block; position: relative;}
 .bootstrap-tree-table .treetable-expander {width:16px; height: 16px; display: inline-block; position: relative; cursor: pointer;}
 .bootstrap-tree-table .treetable-selected{background: #f5f5f5 !important;}
@@ -901,7 +901,7 @@ label {
 .bootstrap-tree-table .treetable-bars .columns li label{display: block;padding: 3px 20px;clear: both;font-weight: 400;line-height: 1.428571429;max-width: 100%;margin-bottom: 5px;cursor:pointer;}
 .bootstrap-tree-table .table{border-bottom: 0px solid #e7eaec!important;}
 
-/** 棣栭〉鏍峰紡 **/
+/** 首页样式 **/
 .ax_close_max {
 	position: fixed;
 	top: 5px;
@@ -943,7 +943,7 @@ label {
 	background-color:#eee;
 }
 
-/** 琛ㄥ崟甯冨眬 **/
+/** 表单布局 **/
 .form-header {
     font-size:15px;
 	color:#6379bb;
@@ -963,7 +963,7 @@ label {
     border-width: 1px 0px;
 }
 
-/** 琛ㄦ牸璺宠浆鏍峰紡 **/
+/** 表格跳转样式 **/
 .pageGo input {
     height: 32px;
     width: 50px;
@@ -979,7 +979,7 @@ label {
     float:left;
 }
 
-/** 琛ㄦ牸鎷栨嫿鏍峰紡 **/
+/** 表格拖拽样式 **/
 .reorder_rows_onDragClass td {
     color:yellow!important;
 	background-color:#999!important;
@@ -987,13 +987,13 @@ label {
 	box-shadow:0 12px 14px -12px #111 inset,0 -2px 2px -1px #333 inset
 }
 
-/** 琛ㄦ牸閫変腑鏍峰紡 **/
+/** 表格选中样式 **/
 .fixed-table-container .selected {
     background-color: #E8F7FD;
     color: #1890ff;
 }
 
-/** 婊氬姩鏉℃牱寮� **/
+/** 滚动条样式 **/
 ::-webkit-scrollbar-track {
     background-color: #F5F5F5;
 }
