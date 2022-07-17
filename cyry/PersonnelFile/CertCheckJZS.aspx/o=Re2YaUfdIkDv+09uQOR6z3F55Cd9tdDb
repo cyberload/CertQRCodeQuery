@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><title>
 
-</title><link href="../Css/cerCheck.css?v=1.04" rel="stylesheet" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=0.6,  minimum-scale=0.6, maximum-scale=1.0" /></head>
+</title><link href="http://bjjs.zjw.beijing.gov.cn/cyry/Css/cerCheck.css?v=1.04" rel="stylesheet" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=0.6,  minimum-scale=0.6, maximum-scale=1.0" /></head>
 <body>
     <form name="form1" method="post" action="CertCheckJZS.aspx?o=Re2YaUfdIkDv+09uQOR6z3F55Cd9tdDb" id="form1">
 <div>
@@ -29,7 +29,7 @@
                     </td>
 
                     <td rowspan="4" align="center" nowrap="nowrap" style="width: 6rem">
-                        <img src="../UpLoad/WorkerPhoto/610/132627197804198610.jpg" id="ImgCode" alt="一寸照片" />
+                        <img src="http://bjjs.zjw.beijing.gov.cn/cyry/UpLoad/WorkerPhoto/610/132627197804198610.jpg" id="ImgCode" alt="一寸照片" />
                     </td>
                 </tr>
                 <tr>
