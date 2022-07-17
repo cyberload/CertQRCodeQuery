@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title><link href="../Css/cerCheck.css?v=1.04" rel="stylesheet" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=0.6,  minimum-scale=0.6, maximum-scale=1.0" /></head>
+<body>
+    <form name="form1" method="post" action="CertCheckJZS.aspx?o=Re2YaUfdIkDv+09uQOR6z3F55Cd9tdDb" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="te1GTbhUo7kxw0DRgFiMkNMokp/aD2kDLNE+QkrOTaVa4RdPM4/aOsdWc7k9IcnJ/Ug5jR0aacBHJlr5mTGQyW2X1dxlhQnqD+nE5PalroVmVSFOm+FaUanGtOK1jfiNBheHTrAA6FnyiA8X8KjrCU+TnGwLv9/3SH6gmP31Kgf8/CptWOzgwUBZXj6xo0f4yE0urGSP27CuRrMa5QOz84vOICkTjsRa62dkk1LVOjegWkTs0SkuhfTgB4UJTMnKUX6PR1l6twUxF0nPv8YfwJACcWmJ9GxyYBbGJ0QPOlC3SbIAlKKuH6/CW2Kt4ZZtYp7ctT1H/9Xz+sLLQXCjVw8zg24Dlkb34FtayjnF67S7gqQBQWgTugOKhH/os1ox8mkdvonnWiqTp5PKzfV+0Qjt2HWY4vioelvBIzhzRY2UdDlM20KiYUkHu9GvkzBX+gXxrGPzEJwuc15YmBUGV9S5zasPT/u6RHQ2jeGoXYmiSvhIFaWuLyfW/iE5xr+0+K0KH9Aqdy/M19oyKDH0boZz2Bpjw214C4nDDgGSOpSxMc5Gjd7uh+83pRX3oO9GDka/yR1lm6MLAPNpWcrsP7UbhRuETI2TLiRM86thzL2ALLn2+ZgGOgR7PSiED7Y93W7iJGD/PDmPo1/obkN4pXwYWRxIX5d2+v1GZXQuqEBtnYyEusDP7vIgQz1VpUimLq/zyBpSJ/ySDDrd/FjfnAnqdZJducPljfwPnNnTY23PgViSurdpJmlkhvs=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07A847C1" />
+</div>
+        <div class="mDiv">
+            <div class="title">
+                北京市住房和城乡建设领域人员资格管理信息系统
+                <br />
+                证书信息验证
+            </div>
+            <table cellpadding="5" cellspacing="1" class="table" align="center">
+                <tr>
+                    <td width="9%" nowrap="nowrap" align="right">
+                        <strong>姓 名</strong>
+                    </td>
+                    <td>
+                        <span id="LabelWorkerName">李明怀</span>
+                    </td>
+
+                    <td rowspan="4" align="center" nowrap="nowrap" style="width: 6rem">
+                        <img src="../UpLoad/WorkerPhoto/610/132627197804198610.jpg" id="ImgCode" alt="一寸照片" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" width="9%">
+                        <strong>性 别</strong>
+                    </td>
+                    <td>
+                        <span id="LabelSex">男</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>出生日期</strong>
+                    </td>
+                    <td>
+                        <span id="LabelBirthday">1978年04月19日</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>证件号码</strong>
+                    </td>
+                    <td>
+                        <span id="LabelWorkerCertificateCode">132627197804198610</span>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>聘用企业</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelUnitName">北京嘉惠民科技发展有限公司</span>
+                    </td>
+                </tr>
+               
+
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>证书类别</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelPostTypeID">二级建造师</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>注册专业</strong>
+                    </td>
+                    <td id="td_Profession" colspan="2">机电工程（2022年12月15日）<br /></td>
+
+                </tr>
+                
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>注册编号</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelCertificateCode">京211060800272</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>有效期至</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelValidate">2022年12月15日</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td nowrap="nowrap" align="right">
+                        <strong>发证机关</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelConferUnit">北京市住房和城乡建设委员会</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>发证日期</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelConferDate">2008年04月14日</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right" nowrap="nowrap">
+                        <strong>制证日期</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelZZRQ">2008年04月14日</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td nowrap="nowrap" align="right">
+                        <strong>备注</strong>
+                    </td>
+                    <td colspan="2">
+                        <span id="LabelDesc">　</span>
+                    </td>
+                </tr>
+              
+            </table>
+        </div>
+    </form>
+</body>
+</html>
