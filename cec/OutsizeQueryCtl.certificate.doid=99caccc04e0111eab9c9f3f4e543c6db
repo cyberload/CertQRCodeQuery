@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=0.5,user-scalable=yes">
+
+<!-- Bootstrap 3.3.2 -->
+<link href="./src/bootstrap.css" rel="stylesheet">
+<!-- 系统核心CSS -->
+<link rel="stylesheet" href="./src/my.css">	
+<!-- 小图标 icons -->
+<link rel="stylesheet" href="./src/splashy.css">
+<!-- 奥森字体图标 -->
+<link rel="stylesheet" href="./src/font-awesome.min.css"> 
+<!-- 国旗图标 -->
+<link rel="stylesheet" href="./src/flags.css">	
+<!-- 按钮提示 -->
+<link rel="stylesheet" href="./src/jquery.qtip.min.css">
+<!-- JQuery 非阻塞通知插件-->
+<link rel="stylesheet" type="text/css" href="./src/toastr.min.css">
+<!-- jNotify 非阻塞通知插件-->
+<link rel="stylesheet" type="text/css" href="./src/jNotify.jquery.css">
+
+<!-- 个子页面统一的样式 -->
+<link rel="stylesheet" href="./src/iss.page.css">
+
+<!--CMS 30  所有javascript 开始-->
+<!-- jQuery v1.11.1  -->
+
+<!-- Bootstrap 核心JS  -->
+
+<link rel="stylesheet" href="./src/bootstrap-table.css">
+<link rel="stylesheet" href="./src/bootstrap-table-fixed-columns.css">
+
+<link rel="stylesheet" href="./src/jquery.searchableSelect.css">
+<link rel="stylesheet" href="./src/select.min.css">
+<link rel="stylesheet" href="./src/select-addl.min.css">
+<link rel="stylesheet" href="./src/select-krajee.min.css">
+
+
+
+<!-- IE 兼容性支持 JAVASCRIPT 结束 -->
+
+
+<link rel="stylesheet" href="./src/style.css">
+
+<title>查看证书详细信息</title>
+<style type="text/css">BODY {
+	FONT-SIZE: 14px; FONT-FAMILY: "宋体"
+}
+OL LI {
+	MARGIN: 8px
+}
+#con {
+	FONT-SIZE: 12px; MARGIN: 0px auto; WIDTH: 600px
+}
+.tags {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; WIDTH: 400px; PADDING-TOP: 0px; HEIGHT: 23px
+}
+.tags {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 10px; WIDTH: 400px; PADDING-TOP: 0px; HEIGHT: 23px
+}
+.tags LI {
+	BACKGROUND: url(/cec/resource/css/tagleft.gif) no-repeat left bottom; FLOAT: left; MARGIN-RIGHT: 1px; LIST-STYLE-TYPE: none; HEIGHT: 23px
+}
+.tags LI A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(/cec/resource/css/tagright.gif) no-repeat right bottom; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #999; LINE-HEIGHT: 23px; PADDING-TOP: 0px; HEIGHT: 23px; TEXT-DECORATION: none
+}
+.tags LI.emptyTag {
+	BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 4px
+}
+.tags LI.selectTag {
+	BACKGROUND-POSITION: left top; MARGIN-BOTTOM: -2px; POSITION: relative; HEIGHT: 25px
+}
+.tags LI.selectTag A {
+	BACKGROUND-POSITION: right top; COLOR: #000; LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+#tagContent {
+	BORDER-RIGHT: #aecbd4 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #aecbd4 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #aecbd4 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #aecbd4 1px solid; BACKGROUND-COLOR: #fff
+}
+.tagContent {
+	PADDING-RIGHT: 10px; DISPLAY: none; PADDING-LEFT: 10px; BACKGROUND: url(/cec/resource/css/bg.gif) repeat-x; PADDING-BOTTOM: 10px;  COLOR: #474747; PADDING-TOP: 10px; 
+}
+#tagContent DIV.selectTag {
+	DISPLAY: block
+}
+</style></head>
+
+<body data-new-gr-c-s-check-loaded="14.1105.0" data-gr-ext-installed="" data-new-gr-c-s-loaded="14.1105.0">
+
+
+
+<!-- 2. 正文 -->
+<div class="container-fluid padding-1" style="text-align: center; width:70%">
+	<div class="row">
+		<div class="col-sm-12 col-xl-12 col-md-12 col-lg-12">
+			<div class="div-scroll">
+			
+
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="splashy-documents"></i>证书基本信息</div>
+					<table class="table table-bordered table-font-size-12 width-100">
+						<tbody><tr>
+							<td class="width-33">证书编号：CEC2019ELP03809271</td>
+							<td class="width-33">证书状态：
+
+
+
+
+
+
+有效
+</td>
+							<td class="width-33">认证标准：HJ/T223-2005</td>
+						</tr>
+						<tr>
+							<td>发证日期：2022-02-18</td>
+							<td>有效期至：
+								2024-02-12</td>
+							<td>首次发证时间：2022-02-13</td>
+						</tr>
+						<tr>
+							<td>认证单元：石膏板</td>
+							<td colspan="2">
+								
+											年检1：<font color="green">已做</font>&nbsp;&nbsp;
+											年检2：<font color="green">已做</font>&nbsp;&nbsp;
+										</td>
+							</tr>
+						<tr>
+							<td class="width-33">历史申请记录</td>
+							<td class="width-33" colspan="2">
+								<a href="http://cecpro.mepcec.com/cec/reg.ApplicationCtl.queryApplicationByRegUser.do?objID=1cf37440548611eb8d9893f90673fbac">2021ELP-0028877</a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="http://cecpro.mepcec.com/cec/reg.ApplicationCtl.queryApplicationByRegUser.do?objID=6df09e90e89f11e87fc1f6492019f17a">2018ELP-0005199</a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="http://cecpro.mepcec.com/cec/reg.ApplicationCtl.queryApplicationByRegUser.do?objID=a5d85a1069fb11ecadb710035a1854c9">2022ELP-0043267</a>&nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="http://cecpro.mepcec.com/cec/reg.ApplicationCtl.queryApplicationByRegUser.do?objID=be688d40ef1711e947c9c4e1b765d372">2019ELP-0013846</a>&nbsp;&nbsp;&nbsp;&nbsp;
+								</td>
+						</tr>
+					</tbody></table>
+			</div>
+			
+			
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="splashy-documents"></i>委托企业信息</div>
+					<table class="table table-bordered table-condensed table-font-size-12">
+						<tbody><tr>
+							<td class="col-sm-2">委托企业名称(中文)：</td>
+							<td class="col-sm-10" style="text-align: left;">北新集团建材股份有限公司</td>								
+						</tr>
+						<tr>
+							<td class="col-sm-2">委托企业名称(英文)：</td>
+							<td class="col-sm-10" style="text-align: left;"></td>								
+						</tr>
+						<tr>
+							<td class="col-sm-2">委托企业地址(中文)：</td>
+							<td class="col-sm-10" style="text-align: left;">北京市海淀区复兴路17号国海广场2号楼15层</td>								
+						</tr>
+						<tr>
+							<td class="col-sm-2">委托企业地址(英文)：</td>
+							<td class="col-sm-10" style="text-align: left;"></td>								
+						</tr>
+					</tbody></table>
+			</div>
+
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="splashy-documents"></i>生产者(制造商)信息</div>
+					<table class="table table-bordered table-condensed table-font-size-12">
+						<tbody><tr>
+							<td class="col-sm-2">生产者(制造商)名称(中文)：</td>
+							<td class="col-sm-10" style="text-align: left;">北新集团建材股份有限公司</td>
+						</tr>
+						<tr>
+							<td class="col-sm-2">生产者(制造商)名称(英文)：</td>
+							<td class="col-sm-10" style="text-align: left;"></td>
+						</tr>
+						<tr>
+							<td class="col-sm-2">生产者(制造商)地址(中文)：</td>
+							<td class="col-sm-10" style="text-align: left;">北京市海淀区复兴路17号国海广场2号楼15层</td>
+						</tr>
+						<tr>
+							<td class="col-sm-2">生产者(制造商)地址(英文)：</td>
+							<td class="col-sm-10" style="text-align: left;"></td>
+						</tr>
+					</tbody></table>
+			</div>
+			
+			<div class="panel panel-default">
+				<div class="panel-heading"><i class="splashy-documents"></i>生产企业信息</div>
+					<table class="table table-bordered table-condensed table-font-size-12">
+						<tbody><tr>
+								<td class="col-sm-2">生产企业名称(中文)：</td>
+								<td class="col-sm-10" style="text-align: left;">北新集团建材股份有限公司涿州分公司</td>
+							</tr>
+							<tr>
+								<td class="col-sm-2">生产企业名称(英文)：</td>
+								<td class="col-sm-10" style="text-align: left;"></td>
+							</tr>
+							<tr>
+								<td class="col-sm-2">生产企业地址(中文)：</td>
+								<td class="col-sm-10" style="text-align: left;">河北省保定市涿州市开发区北新工业区</td>
+							</tr>
+							<tr>
+								<td class="col-sm-2">生产企业地址(英文)：</td>
+								<td class="col-sm-10" style="text-align: left;"></td>
+							</tr>
+						</tbody></table>
+			</div>
+			
+			
+
+			</div>
+		</div>
+	</div>
+</div>
+
+</html>
